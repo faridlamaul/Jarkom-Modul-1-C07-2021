@@ -80,4 +80,4 @@ Setelah mendapatkan paketnya, klik paket tersebut kemudian ***follow TCP stream*
 <img src="./assets/img/10.4.png"><br><br>
 
 Terlihat bahwa kita telah berhasil menemukan password untuk file *wanted.pdf* yaitu ***d1b1langbukanapaapajugagapercaya***. Ketikan password dimasukkan dan file dibuka, maka akan muncul poster *bounty* dari Monkey D. Luffy.<br>
-<img src="./assets/img/10.5.png"><br><br>
+<img src="./assets/img/10.5.PNG"><br><br>
