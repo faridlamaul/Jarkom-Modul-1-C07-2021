@@ -194,3 +194,59 @@ Setelah mendapatkan paketnya, klik paket tersebut kemudian **_follow TCP stream_
 
 Terlihat bahwa kita telah berhasil menemukan password untuk file _wanted.pdf_ yaitu **_d1b1langbukanapaapajugagapercaya_**. Ketikan password dimasukkan dan file dibuka, maka akan muncul poster _bounty_ dari Monkey D. Luffy.<br>
 <img src="./assets/img/10.5.PNG"><br><br>
+
+## Soal 11
+
+```
+Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
+```
+
+Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. kemudian kita input "src port 80" karena berasal dari port 21. Karena port 80 merupakan http, maka kita perlu membuka web yang menggunakan http. Kita membuka monta untuk mencoba.
+
+gambar
+gambar
+
+## Soal 12
+
+```
+Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
+```
+
+Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. kemudian kita input "port 21" karena ingin menangkap yang berasal atau menuju. Karena port 21 merupakan port server, maka kita perlu membuka filezilla agar tampil.
+
+## Soal 13
+
+```
+Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
+```
+
+Karena perintah yang digunakan adalah menampilkan paket, maka kita menggunakan display filter. kemudian kita input "dst port 443".
+
+gambar
+gambar
+
+## Soal 14
+
+```
+Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
+```
+
+Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. Kita menggunakan IP kemenag untuk mengambil paket. untuk mengambil paket, Kita perlu mencari dari cmd.
+
+gambar
+
+kemudian input syntax di wireshark, yaitu
+
+## Soal 15
+
+```
+Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+```
+Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. Kita menggunakan IP kita untuk mengambil paket. untuk mengambil paket, Kita perlu mencari dari cmd.
+
+gambar
+
+kemudian input syntax di wireshark, yaitu 
+
+gambar
+gambar
