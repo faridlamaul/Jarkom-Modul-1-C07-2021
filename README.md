@@ -224,8 +224,7 @@ Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
 
 Karena perintah yang digunakan adalah menampilkan paket, maka kita menggunakan display filter. kemudian kita input "dst port 443".
 
-<img src="./assets/img/13.2.PNG"><br><br>
-<img src="./assets/img/13.2.PNG"><br><br>
+<img src="./assets/img/13.PNG"><br><br>
 
 ## Soal 14
 
