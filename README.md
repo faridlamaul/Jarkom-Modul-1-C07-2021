@@ -203,8 +203,8 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
 
 Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. kemudian kita input "src port 80" karena berasal dari port 21. Karena port 80 merupakan http, maka kita perlu membuka web yang menggunakan http. Kita membuka monta untuk mencoba.
 
-gambar
-gambar
+<img src="./assets/img/11.1.PNG"><br><br>
+<img src="./assets/img/11.2.PNG"><br><br>
 
 ## Soal 12
 
@@ -214,6 +214,8 @@ Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 
 Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. kemudian kita input "port 21" karena ingin menangkap yang berasal atau menuju. Karena port 21 merupakan port server, maka kita perlu membuka filezilla agar tampil.
 
+<img src="./assets/img/12.1.PNG"><br><br>
+
 ## Soal 13
 
 ```
@@ -222,8 +224,8 @@ Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
 
 Karena perintah yang digunakan adalah menampilkan paket, maka kita menggunakan display filter. kemudian kita input "dst port 443".
 
-gambar
-gambar
+<img src="./assets/img/13.2.PNG"><br><br>
+<img src="./assets/img/13.2.PNG"><br><br>
 
 ## Soal 14
 
@@ -233,9 +235,12 @@ Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
 
 Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. Kita menggunakan IP kemenag untuk mengambil paket. untuk mengambil paket, Kita perlu mencari dari cmd.
 
-gambar
+<img src="./assets/img/14.1.PNG"><br><br>
 
 kemudian input syntax di wireshark, yaitu
+
+<img src="./assets/img/14.2.PNG"><br><br>
+<img src="./assets/img/14.3.PNG"><br><br>
 
 ## Soal 15
 
@@ -244,9 +249,9 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 ```
 Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. Kita menggunakan IP kita untuk mengambil paket. untuk mengambil paket, Kita perlu mencari dari cmd.
 
-gambar
+<img src="./assets/img/15.1.PNG"><br><br>
 
 kemudian input syntax di wireshark, yaitu 
 
-gambar
-gambar
+<img src="./assets/img/15.2.PNG"><br><br>
+<img src="./assets/img/15.3.PNG"><br><br>
