@@ -214,7 +214,7 @@ Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 
 Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. kemudian kita input "port 21" karena ingin menangkap yang berasal atau menuju. Karena port 21 merupakan port server, maka kita perlu membuka filezilla agar tampil.
 
-<img src="./assets/img/12.1.PNG"><br><br>
+<img src="./assets/img/12.1.png"><br><br>
 
 ## Soal 13
 
@@ -248,9 +248,9 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 ```
 Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. Kita menggunakan IP kita untuk mengambil paket. untuk mengambil paket, Kita perlu mencari dari cmd.
 
-<img src="./assets/img/15.1.PNG"><br><br>
+<img src="./assets/img/15.1.png"><br><br>
 
 kemudian input syntax di wireshark, yaitu 
 
-<img src="./assets/img/15.2.PNG"><br><br>
-<img src="./assets/img/15.3.PNG"><br><br>
+<img src="./assets/img/15.2.png"><br><br>
+<img src="./assets/img/15.3.png"><br><br>
