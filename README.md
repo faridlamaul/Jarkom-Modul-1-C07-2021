@@ -215,6 +215,7 @@ Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 Karena perintah yang digunakan adalah mengambil paket, maka kita menggunakan capture filter. kemudian kita input "port 21" karena ingin menangkap yang berasal atau menuju. Karena port 21 merupakan port server, maka kita perlu membuka filezilla agar tampil.
 
 <img src="./assets/img/12.1.png"><br><br>
+<img src="./assets/img/12.2.png"><br><br>
 
 ## Soal 13
 
